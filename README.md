@@ -1,4 +1,4 @@
-# 🚀 Portfólio - Rafaela Moreira
+# 🚀 Portfólio - Rafaela Cutalo Moreira
 
 Desenvolvedora Frontend Pleno/Sênior especialista em React, Angular e TypeScript.
 
@@ -28,10 +28,18 @@ Este é meu portfólio pessoal desenvolvido com HTML5, CSS3 e JavaScript vanilla
 ```
 rafaela-moreira.github.io/
 ├── index.html          # Página principal
-├── styles.css          # Estilos CSS
-├── script.js           # JavaScript
-└── README.md           # Documentação
+├── styles.css          # Estilos CSS separados
+├── script.js           # JavaScript separado
+├── README.md           # Documentação
+└── .nojekyll           # Configuração GitHub Pages
 ```
+
+### 🎯 Organização dos Arquivos
+
+- **`index.html`**: Estrutura HTML semântica com todas as seções do portfólio
+- **`styles.css`**: Estilos CSS organizados com variáveis CSS e design responsivo
+- **`script.js`**: JavaScript vanilla com funcionalidades interativas e animações
+- **`.nojekyll`**: Arquivo necessário para desabilitar o Jekyll no GitHub Pages
 
 ## 🚀 Como Executar
 
@@ -206,10 +214,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Contato
 
-- **LinkedIn**: [Rafaela Moreira](https://linkedin.com/in/rafaela-moreira)
+- **LinkedIn**: [Rafaela Cutalo Moreira](https://www.linkedin.com/in/rafaelah-moreira/)
 - **GitHub**: [@CMRafaela](https://github.com/CMRafaela)
-- **Email**: rafaela.moreira@email.com
+- **Email**: rafaelacutalo@gmail.com
 
 ---
 
-Desenvolvido por Rafaela Moreira
+Desenvolvido por Rafaela Cutalo Moreira

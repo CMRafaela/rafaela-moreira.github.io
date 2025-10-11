@@ -385,12 +385,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // Console message for developers
 console.log(`
-🚀 Portfólio da Rafaela Moreira
+🚀 Portfólio da Rafaela Cutalo Moreira
 Desenvolvedora Frontend Pleno/Sênior
 Especialista em React, Angular e TypeScript
 
 GitHub: https://github.com/CMRafaela
-LinkedIn: https://linkedin.com/in/rafaela-moreira
+LinkedIn: https://www.linkedin.com/in/rafaelah-moreira/
 
 Desenvolvido com ❤️ e muito café ☕
 `);

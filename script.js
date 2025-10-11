@@ -1,7 +1,16 @@
+// Error handling and debugging
+console.log("🚀 Script.js carregado com sucesso!");
+
 // Mobile Navigation Toggle
 document.addEventListener("DOMContentLoaded", function () {
+  console.log("📱 DOM carregado, inicializando navegação mobile...");
   const navToggle = document.querySelector(".nav-toggle");
   const navMenu = document.querySelector(".nav-menu");
+
+  if (!navToggle || !navMenu) {
+    console.warn("⚠️ Elementos de navegação não encontrados");
+    return;
+  }
 
   navToggle.addEventListener("click", function () {
     navMenu.classList.toggle("active");

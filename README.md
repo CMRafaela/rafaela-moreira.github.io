@@ -74,13 +74,14 @@ npx serve .
 ### 👩‍💻 Sobre Mim
 
 - Descrição profissional
-- Estatísticas (anos de experiência, projetos, empresas)
+- Estatísticas (5+ anos de experiência, 15+ projetos, 3 empresas)
 - Destaque para experiência em GovTech/Fintech
 
 ### 🛠️ Habilidades Técnicas
 
-- **Frontend**: React, Angular, TypeScript, JavaScript
+- **Frontend**: React, Angular, Next.js, TypeScript, JavaScript
 - **Mobile**: React Native, PWA
+- **Visualização**: Charts.js, Mapas interativos, Tailwind CSS
 - **Testes & QA**: BDD, Robot Framework, Jest, Cypress
 - **Ferramentas**: Git, Azure DevOps, Node.js, Java
 
@@ -92,9 +93,12 @@ npx serve .
 
 ### 🎯 Projetos em Destaque
 
-- Carrinho de Compras (React + TypeScript)
-- TodoList (JavaScript)
-- Servidor Node.js (Backend)
+- **Carrinho de Compras** (React + TypeScript)
+- **TodoList** (JavaScript)
+- **Servidor Node.js** (Backend)
+- **Painel Qualidade do Ar RJ** (Next.js + React + mapas interativos)
+- **Agenda App Angular** (Angular + TypeScript)
+- **Finanças App Angular** (Angular + Charts.js)
 
 ### 📞 Contato
 
